@@ -12,3 +12,11 @@
     background-color: hsl(240, 50%, 40%);
     border-bottom: solid 3px hsl(240, 50%, 20%);
 }
+.button-danger {
+    background-color: hsl(0, 50%, 50%);
+    border-bottom: solid 3px hsl(0, 50%, 30%);
+}
+.button-danger:hover {
+    background-color: hsl(0, 50%, 40%);
+    border-bottom: solid 3px hsl(0, 50%, 20%);
+}
